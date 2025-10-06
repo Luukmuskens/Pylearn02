@@ -1,35 +1,35 @@
-# Takenlijst Project
+# To-Do List Project
 
-Dit project is een eenvoudige takenlijst-applicatie gebouwd met Python en Tkinter. Het helpt je om taken toe te voegen, te bekijken en te verwijderen via een grafische interface.
+This project is a simple to-do list application built with Python and Tkinter. It helps you add, view, and remove tasks using a graphical interface.
 
-## Installatie
+## Installation
 
-1. Zorg dat Python geïnstalleerd is op je computer.
-2. Download of clone dit project naar een map.
-3. Installeer Tkinter (meestal standaard bij Python).
+1. Make sure Python is installed on your computer.
+2. Download or clone this project to a folder.
+3. Tkinter is usually included with Python.
 
-## Gebruik
+## Usage
 
-Start het programma met:
+Start the program with:
 
 ```
 python main.py
 ```
 
-Voeg taken toe door ze in te typen en op "Voeg toe" te klikken. Selecteer een taak en klik op "Verwijder geselecteerde" om een taak te verwijderen.
+Add tasks by typing them and clicking "Add". Select a task and click "Remove selected" to delete it.
 
-## Bestanden
+## Files
 
-- `main.py`: Start het programma.
-- `todo_app.py`: Bevat de logica en GUI van de takenlijst.
+- `main.py`: Starts the program.
+- `todo_app.py`: Contains the logic and GUI for the to-do list.
 
-## Toekomstige uitbreidingen
+## Future improvements
 
-- Taken opslaan in een bestand.
-- Taken markeren als voltooid.
-- Deadline of prioriteit toevoegen.
+- Save tasks to a file.
+- Mark tasks as completed.
+- Add deadlines or priorities.
 
 ---
 
-Gemaakt door Luuk Muskens. 
-datum van aanmaken GitHub Repo : 6/10/2025
+Created by: Luuk Muskens. 
+Created for GitHub repository on October 6, 2025.
